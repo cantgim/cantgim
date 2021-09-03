@@ -1,6 +1,1 @@
-### Hello World! 🙈 🙉 🙊
-
-- 🔭 I’m currently working on Java
-- 🌱 I’m currently learning ReactJS
-- 👯 I’m looking to collaborate on anything
-- 💬 Ask me about anything
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cantgim&count_private=true)

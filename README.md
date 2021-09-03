@@ -1,3 +1,5 @@
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<p align="center">
+  <a href="https://github.com/cantgim">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=cantgim&count_private=true&show_icons=true&theme=buefy&include_all_commits=true&hide=stars,contribs" />
 </a>
+</p>
